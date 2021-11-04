@@ -1,0 +1,7 @@
+1. you can redeclare with var and let you can not. let creates a block-scoped variable.
+
+2. Var can redeclare and reassign, you can not do that with const.
+
+3. Let you can reassign variables but const you cant reassign or redeclare.
+
+4. Hoisting refers to allocating the memory for variable and function declarations prior to execution of the code. Var can execute hoisting with a default of undefined. Let and const do not apply to hoisting.
